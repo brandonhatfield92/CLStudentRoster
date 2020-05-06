@@ -1,0 +1,67 @@
+﻿[
+    {
+        "StudentId": 1,
+        "FirstName": "Matt",
+        "LastName": "Durham",
+        "ClassName": "History",
+        "StartDate": "2018-03-12T00:00:00-04:00",
+        "LastClassCompleted": "Science",
+        "LastClassCompletedOn": "1991-03-16T00:00:00-05:00"
+    },
+    {
+        "StudentId": 2,
+        "FirstName": "Johhny",
+        "LastName": "Smith",
+        "ClassName": "Math",
+        "StartDate": "1976-04-12T00:00:00-04:00",
+        "LastClassCompleted": "Biology",
+        "LastClassCompletedOn": "1998-03-16T00:00:00-05:00"
+    },
+    {
+        "StudentId": 3,
+        "FirstName": "Brandon",
+        "LastName": "Hatfield",
+        "ClassName": "History",
+        "StartDate": "2018-03-12T00:00:00-04:00",
+        "LastClassCompleted": "Science",
+        "LastClassCompletedOn": "1991-03-16T00:00:00-05:00"
+    },
+    {
+        "StudentId": 4,
+        "FirstName": "Sally",
+        "LastName": "Billgraves",
+        "ClassName": "History",
+        "StartDate": "1976-04-12T00:00:00-04:00",
+        "LastClassCompleted": "Biology",
+        "LastClassCompletedOn": "1998-03-16T00:00:00-05:00"
+    },
+    {
+        "StudentId": 5,
+        "FirstName": "Jeniffer",
+        "LastName": "Gary",
+        "ClassName": "Math",
+        "StartDate": "2018-03-12T00:00:00-04:00",
+        "LastClassCompleted": "Science",
+        "LastClassCompletedOn": "1991-03-16T00:00:00-05:00"
+    },
+    {
+        "StudentId": 6,
+        "FirstName": "Mason",
+        "LastName": "O'Hare",
+        "ClassName": "Math",
+        "StartDate": "1976-04-12T00:00:00-04:00",
+        "LastClassCompleted": "Biology",
+        "LastClassCompletedOn": "1998-03-16T00:00:00-05:00"
+    },
+    {
+        "StudentId": 7,
+        "FirstName": "Nacy",
+        "LastName": "Williamson",
+        "ClassName": "History",
+        "StartDate": "1976-04-12T00:00:00-04:00",
+        "LastClassCompleted": "Biology",
+        "LastClassCompletedOn": "1998-03-16T00:00:00-05:00"
+    }
+    
+    
+]

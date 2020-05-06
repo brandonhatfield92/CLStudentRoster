@@ -1,0 +1,12 @@
+C:\Users\brand\Source\Repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\bin\Debug\netcoreapp2.1\[BrandonHatfield].CodeLou.ExcerciseProject.deps.json
+C:\Users\brand\Source\Repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\bin\Debug\netcoreapp2.1\[BrandonHatfield].CodeLou.ExcerciseProject.runtimeconfig.json
+C:\Users\brand\Source\Repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\bin\Debug\netcoreapp2.1\[BrandonHatfield].CodeLou.ExcerciseProject.runtimeconfig.dev.json
+C:\Users\brand\Source\Repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\bin\Debug\netcoreapp2.1\[BrandonHatfield].CodeLou.ExcerciseProject.dll
+C:\Users\brand\Source\Repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\bin\Debug\netcoreapp2.1\[BrandonHatfield].CodeLou.ExcerciseProject.pdb
+C:\Users\brand\Source\Repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\obj\Debug\netcoreapp2.1\[BrandonHatfield].CodeLou.ExcerciseProject.csprojAssemblyReference.cache
+C:\Users\brand\Source\Repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\obj\Debug\netcoreapp2.1\[BrandonHatfield].CodeLou.ExcerciseProject.csproj.CoreCompileInputs.cache
+C:\Users\brand\Source\Repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\obj\Debug\netcoreapp2.1\[BrandonHatfield].CodeLou.ExcerciseProject.AssemblyInfoInputs.cache
+C:\Users\brand\Source\Repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\obj\Debug\netcoreapp2.1\[BrandonHatfield].CodeLou.ExcerciseProject.AssemblyInfo.cs
+C:\Users\brand\Source\Repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\obj\Debug\netcoreapp2.1\[BrandonHatfield].CodeLou.ExcerciseProject.dll
+C:\Users\brand\Source\Repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\obj\Debug\netcoreapp2.1\[BrandonHatfield].CodeLou.ExcerciseProject.pdb
+C:\Users\brand\source\repos\brandonhatfield92\C-sharp-class-project\[BrandonHatfield].CodeLou.ExcerciseProject\bin\Debug\netcoreapp2.1\students.json
