@@ -67,7 +67,7 @@ namespace _BrandonHatfield_.CodeLou.ExcerciseProject
 
             Student.saveToFile(students.Values.ToList());
     }
-    //The metho below is used to add student information to the Students class.//
+    //The method below is used to add student information to the Students class.//
     private static void AddStudent()
     {
             int studentId;
