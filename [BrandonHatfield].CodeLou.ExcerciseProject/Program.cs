@@ -67,7 +67,7 @@ namespace _BrandonHatfield_.CodeLou.ExcerciseProject
 
             Student.saveToFile(students.Values.ToList());
     }
-
+    //The metho below is used to add student information to the Students class.//
     private static void AddStudent()
     {
             int studentId;
@@ -115,8 +115,8 @@ namespace _BrandonHatfield_.CodeLou.ExcerciseProject
 
         students.Add(studentRecord.StudentId, studentRecord);
     }
-
-    public static void ListStudents()
+        //This section of code is used to list student information. //
+        public static void ListStudents()
     {
         Console.WriteLine($"Student Id | Name |  Class ");
         foreach (var studentRecord in students.Values)
@@ -126,7 +126,7 @@ namespace _BrandonHatfield_.CodeLou.ExcerciseProject
         }
 
     }
-
+    //The code below allows the user to enter a students name and it will find the student and list their information.// 
     private static void FindStudents()
     {
             var test = students.Values.ToList();
